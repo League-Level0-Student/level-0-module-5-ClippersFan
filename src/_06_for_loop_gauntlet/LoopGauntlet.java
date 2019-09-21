@@ -35,18 +35,29 @@ public class LoopGauntlet {
 			//age++;
 			//System.out.println(" In " + i + ", I was " + age + " years old");
 		//}
-		for(int i = 0; i < 3;) {
-			System.out.println(i);
-			for(int g = 1; g < 3;) {
-				System.out.println(g);
-			}
-			for(int f = 2; f < 3;) {
-				System.out.println(f);
-			}
-		}
-		}
-		}
+		//for(int i = 0; i < 3; i++) {
+			//for(int g = 0; g < 3; g++) {
+			//	System.out.println(i+" "+g);
+			//}
+		//}
+		//for(int i = 1; i < 10; i+=3) {
+				//for(int z = i; z < i+3; z++) {
+					//System.out.print(z+" ");
+					
+					
+				//}
+				//System.out.println();
+		//}
+		//for(int i = 1; i < 101; i+=10) {
+			//for(int z = i; z < i+10; z++) {
+				//System.out.print(z+"    ");
+			//}
+			//System.out.println();
+		//}
 		
+		}
+		}
+
 		
 	
 		
