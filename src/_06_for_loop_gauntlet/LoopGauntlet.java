@@ -50,13 +50,20 @@ public class LoopGauntlet {
 		//}
 		//for(int i = 1; i < 101; i+=10) {
 			//for(int z = i; z < i+10; z++) {
-				//System.out.print(z+"    ");
-			//}
+			//System.out.print(z+"    ");
+			////}
 			//System.out.println();
 		//}
+		//for(int i = 1; i < 7; i++) {
+			//System.out.println();
+			//for(int j = 1; j < i; j++) {
+				//System.out.print("*");
+			//}
+		//}
 		
-		}
-		}
+		
+		/////////////////}
+		////}
 
 		
 	
